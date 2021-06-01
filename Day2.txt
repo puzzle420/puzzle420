@@ -1,4 +1,4 @@
-day 2
+day 3
 On Windows systems, Git looks for
 Each level overrides values in the previous level,
 Many of the GUI tools will help you do this when you first run them.
